@@ -23,6 +23,7 @@ $ bundle install
 
    1. create a file in the /config called `.env`
    1. copy from `.env.example` and replace with your values (leave slack one empty for now)
+   2. Set API_USERNAME to a user in your Ombi environment that has requests permissions. 
 
 2. Start the server
 
